@@ -21,7 +21,7 @@ li a {
 
 li a:hover {
   font-size: 18;
-  color:black;
+  color: black;
 }
 
 body {
@@ -44,7 +44,7 @@ main {
 footer {
   display: flex;
   justify-content: center;
-  font-size: 50;
+  font-size: 18;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  color: rgba(3, 3, 3, 0.411);
+  color: rgba(3, 3, 3, 0.904);
 }
