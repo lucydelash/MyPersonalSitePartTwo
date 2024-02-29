@@ -1,4 +1,15 @@
-main img {
+img {
   border-radius: 50%;
+  height: 600px;
+}
 
+section {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  margin: 100px;
+}
+
+img:hover {
+  opacity: 0.2;
 }
