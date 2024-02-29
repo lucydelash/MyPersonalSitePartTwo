@@ -14,14 +14,15 @@ p {
 }
 
 main h3 {
-  display:flex;
+  display: flex;
   justify-content: center;
   text-decoration: underline;
-  font-size: 30;;
+  font-size: 30;
+  ;
 }
 
 section {
-  display:flex;
+  display: flex;
   justify-content: space-evenly;
   flex-direction: column;
   margin: 100px;
